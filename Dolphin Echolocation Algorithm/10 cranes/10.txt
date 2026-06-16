@@ -1,0 +1,41 @@
+Starting Crane Layout Optimization - SCENARIO: 10 CRANES
+Running Dolphin Echolocation Algorithm (Base Scenario v2 logic).
+  Number of Cranes = 10
+  Npop = 50, Tmax = 200
+  R_init = 25.00 m, rho_decay_rate = 0.990, delta_decay_rate = 0.995
+Iteration 1/200, Best Fitness: 14031.01
+Iteration 10/200, Best Fitness: 13598.35
+Iteration 20/200, Best Fitness: 13514.94
+Iteration 30/200, Best Fitness: 13481.87
+Iteration 40/200, Best Fitness: 13463.20
+Iteration 50/200, Best Fitness: 13444.80
+Iteration 60/200, Best Fitness: 13442.57
+Iteration 70/200, Best Fitness: 13440.64
+Iteration 80/200, Best Fitness: 13426.20
+Iteration 90/200, Best Fitness: 13412.25
+Iteration 100/200, Best Fitness: 13405.00
+Iteration 110/200, Best Fitness: 13399.84
+Iteration 120/200, Best Fitness: 13397.42
+Iteration 130/200, Best Fitness: 13393.76
+Iteration 140/200, Best Fitness: 13392.88
+Iteration 150/200, Best Fitness: 13389.94
+Iteration 160/200, Best Fitness: 13388.51
+Iteration 170/200, Best Fitness: 13388.51
+Iteration 180/200, Best Fitness: 13388.51
+Iteration 190/200, Best Fitness: 13388.28
+Iteration 200/200, Best Fitness: 13388.17
+Optimization Finished for 10-Crane Scenario.
+Best Objective Function Value (Total Time): 13387.71 seconds
+Optimal Crane Positions (x, y) for 10 cranes:
+  Crane 1: (212.59, 58.19)
+  Crane 2: (241.60, 69.65)
+  Crane 3: (182.04, 8.26)
+  Crane 4: (187.38, 29.06)
+  Crane 5: (63.98, 53.01)
+  Crane 6: (89.39, 21.21)
+  Crane 7: (179.46, 55.14)
+  Crane 8: (109.02, 59.94)
+  Crane 9: (157.64, 75.00)
+  Crane 10: (23.85, 61.91)
+Program Ended.
+>> 

@@ -1,0 +1,38 @@
+Starting Crane Layout Optimization (v2 with explicit decay params)...
+Running Dolphin Echolocation Algorithm (v2)...
+  Npop = 50, Tmax = 200
+  R_init = 25.00 m, rho_decay_rate = 0.990, delta_decay_rate = 0.995
+Iteration 1/200, Best Fitness: 14256.09
+Iteration 10/200, Best Fitness: 13573.29
+Iteration 20/200, Best Fitness: 13550.25
+Iteration 30/200, Best Fitness: 13517.49
+Iteration 40/200, Best Fitness: 13509.36
+Iteration 50/200, Best Fitness: 13499.22
+Iteration 60/200, Best Fitness: 13497.83
+Iteration 70/200, Best Fitness: 13495.60
+Iteration 80/200, Best Fitness: 13495.60
+Iteration 90/200, Best Fitness: 13492.90
+Iteration 100/200, Best Fitness: 13492.90
+Iteration 110/200, Best Fitness: 13492.90
+Iteration 120/200, Best Fitness: 13492.90
+Iteration 130/200, Best Fitness: 13492.90
+Iteration 140/200, Best Fitness: 13492.90
+Iteration 150/200, Best Fitness: 13491.59
+Iteration 160/200, Best Fitness: 13491.59
+Iteration 170/200, Best Fitness: 13491.23
+Iteration 180/200, Best Fitness: 13487.03
+Iteration 190/200, Best Fitness: 13485.79
+Iteration 200/200, Best Fitness: 13485.32
+Optimization Finished.
+Best Objective Function Value (Total Time): 13485.32 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (189.60, 25.78)
+  Crane 2: (89.64, 21.57)
+  Crane 3: (180.73, 53.85)
+  Crane 4: (23.23, 61.75)
+  Crane 5: (76.63, 53.78)
+  Crane 6: (59.42, 66.50)
+  Crane 7: (214.20, 57.76)
+  Crane 8: (108.80, 60.23)
+Program Ended.
+>> 

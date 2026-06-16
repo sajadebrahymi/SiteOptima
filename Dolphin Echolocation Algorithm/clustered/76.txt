@@ -1,0 +1,40 @@
+Starting Crane Layout Optimization - SCENARIO: CLUSTERED DISTRIBUTION
+Running Dolphin Echolocation Algorithm (Base Scenario v2 logic).
+  Scenario: Clustered Distribution
+  Number of Cranes = 8
+  Npop = 50, Tmax = 200
+  R_init = 25.00 m, rho_decay_rate = 0.990, delta_decay_rate = 0.995
+Iteration 1/200, Best Fitness: 13112.45
+Iteration 10/200, Best Fitness: 12561.08
+Iteration 20/200, Best Fitness: 12472.62
+Iteration 30/200, Best Fitness: 12408.78
+Iteration 40/200, Best Fitness: 12408.15
+Iteration 50/200, Best Fitness: 12408.11
+Iteration 60/200, Best Fitness: 12401.11
+Iteration 70/200, Best Fitness: 12379.46
+Iteration 80/200, Best Fitness: 12375.16
+Iteration 90/200, Best Fitness: 12372.32
+Iteration 100/200, Best Fitness: 12368.52
+Iteration 110/200, Best Fitness: 12361.49
+Iteration 120/200, Best Fitness: 12361.49
+Iteration 130/200, Best Fitness: 12359.86
+Iteration 140/200, Best Fitness: 12359.81
+Iteration 150/200, Best Fitness: 12358.78
+Iteration 160/200, Best Fitness: 12358.01
+Iteration 170/200, Best Fitness: 12356.81
+Iteration 180/200, Best Fitness: 12356.81
+Iteration 190/200, Best Fitness: 12355.66
+Iteration 200/200, Best Fitness: 12351.12
+Optimization Finished for Clustered Distribution Scenario.
+Best Objective Function Value (Total Time): 12351.12 seconds
+Optimal Crane Positions (x, y) for 8 cranes:
+  Crane 1: (19.43, 58.38)
+  Crane 2: (64.16, 52.88)
+  Crane 3: (88.93, 18.46)
+  Crane 4: (232.37, 61.17)
+  Crane 5: (94.51, 49.71)
+  Crane 6: (186.16, 18.82)
+  Crane 7: (166.06, 59.65)
+  Crane 8: (203.07, 43.29)
+Program Ended.
+>> 

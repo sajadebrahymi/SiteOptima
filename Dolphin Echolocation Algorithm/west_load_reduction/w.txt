@@ -1,0 +1,40 @@
+Starting Crane Layout Optimization - SCENARIO: WEST SITE LOAD REDUCTION
+Running Dolphin Echolocation Algorithm (Base Scenario v2 logic).
+  Scenario: West Site Load Reduction
+  Number of Cranes = 8
+  Npop = 50, Tmax = 200
+  R_init = 25.00 m, rho_decay_rate = 0.990, delta_decay_rate = 0.995
+Iteration 1/200, Best Fitness: 13541.30
+Iteration 10/200, Best Fitness: 13145.84
+Iteration 20/200, Best Fitness: 13094.47
+Iteration 30/200, Best Fitness: 13087.69
+Iteration 40/200, Best Fitness: 13079.87
+Iteration 50/200, Best Fitness: 13075.38
+Iteration 60/200, Best Fitness: 13062.75
+Iteration 70/200, Best Fitness: 13048.46
+Iteration 80/200, Best Fitness: 13048.46
+Iteration 90/200, Best Fitness: 13048.46
+Iteration 100/200, Best Fitness: 13043.93
+Iteration 110/200, Best Fitness: 13041.73
+Iteration 120/200, Best Fitness: 13039.80
+Iteration 130/200, Best Fitness: 13033.52
+Iteration 140/200, Best Fitness: 13030.30
+Iteration 150/200, Best Fitness: 13030.30
+Iteration 160/200, Best Fitness: 13030.30
+Iteration 170/200, Best Fitness: 13027.90
+Iteration 180/200, Best Fitness: 13027.85
+Iteration 190/200, Best Fitness: 13022.33
+Iteration 200/200, Best Fitness: 13022.33
+Optimization Finished for West Site Load Reduction Scenario.
+Best Objective Function Value (Total Time): 13021.45 seconds
+Optimal Crane Positions (x, y) for 8 cranes:
+  Crane 1: (231.85, 62.80)
+  Crane 2: (89.50, 15.70)
+  Crane 3: (166.82, 55.62)
+  Crane 4: (22.22, 59.75)
+  Crane 5: (200.38, 42.91)
+  Crane 6: (64.15, 52.49)
+  Crane 7: (126.80, 70.64)
+  Crane 8: (105.02, 58.62)
+Program Ended.
+>> 
