@@ -1,0 +1,193 @@
+نتیجه اجرای اولیه سناریو
+Best Objective Function Value (Total Time): 13485.32 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (189.60, 25.78)
+  Crane 2: (89.64, 21.57)
+  Crane 3: (180.73, 53.85)
+  Crane 4: (23.23, 61.75)
+  Crane 5: (76.63, 53.78)
+  Crane 6: (59.42, 66.50)
+  Crane 7: (214.20, 57.76)
+  Crane 8: (108.80, 60.23)
+———
+نتیجه اجرای اول
+Best Objective Function Value (Total Time): 13461.11 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (166.12, 55.23)
+  Crane 2: (64.13, 52.29)
+  Crane 3: (185.38, 17.86)
+  Crane 4: (21.22, 60.40)
+  Crane 5: (202.94, 43.14)
+  Crane 6: (89.65, 15.79)
+  Crane 7: (231.62, 63.10)
+  Crane 8: (109.07, 60.45)
+
+-------
+نتیجه اجرای دوم
+Best Objective Function Value (Total Time): 13460.25 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (164.87, 60.50)
+  Crane 2: (53.77, 68.45)
+  Crane 3: (185.21, 17.77)
+  Crane 4: (94.65, 49.24)
+  Crane 5: (231.51, 63.09)
+  Crane 6: (75.93, 53.94)
+  Crane 7: (25.05, 58.42)
+  Crane 8: (202.31, 43.14)
+-------
+نتیجه اجرای سوم
+Best Objective Function Value (Total Time): 13464.92 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (89.28, 21.38)
+  Crane 2: (64.15, 52.12)
+  Crane 3: (185.37, 15.45)
+  Crane 4: (22.99, 62.05)
+  Crane 5: (216.04, 56.63)
+  Crane 6: (109.02, 59.31)
+  Crane 7: (187.30, 30.53)
+  Crane 8: (180.29, 54.19)
+
+-------
+نتیجه اجرای چهارم
+Best Objective Function Value (Total Time): 13463.75 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (64.06, 52.66)
+  Crane 2: (108.83, 60.08)
+  Crane 3: (215.81, 57.17)
+  Crane 4: (186.34, 31.41)
+  Crane 5: (183.14, 9.32)
+  Crane 6: (23.73, 62.16)
+  Crane 7: (89.85, 21.66)
+  Crane 8: (180.63, 54.42)
+-------
+نتیجه اجرای پنجم
+Best Objective Function Value (Total Time): 13478.65 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (186.20, 18.30)
+  Crane 2: (200.32, 42.73)
+  Crane 3: (89.12, 22.82)
+  Crane 4: (108.29, 58.65)
+  Crane 5: (232.27, 61.03)
+  Crane 6: (23.95, 61.52)
+  Crane 7: (167.85, 57.71)
+  Crane 8: (64.36, 52.13)
+-------
+نتیجه اجرای ششم
+Best Objective Function Value (Total Time): 13460.19 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (126.40, 68.27)
+  Crane 2: (105.28, 59.43)
+  Crane 3: (63.95, 52.52)
+  Crane 4: (203.27, 43.40)
+  Crane 5: (166.06, 55.53)
+  Crane 6: (89.34, 17.21)
+  Crane 7: (232.40, 62.39)
+  Crane 8: (23.72, 59.28)
+-------
+نتیجه اجرای هفتم
+Best Objective Function Value (Total Time): 13489.38 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (216.20, 56.75)
+  Crane 2: (180.15, 54.73)
+  Crane 3: (189.47, 25.99)
+  Crane 4: (108.96, 60.14)
+  Crane 5: (60.21, 66.23)
+  Crane 6: (89.44, 15.89)
+  Crane 7: (76.57, 53.85)
+  Crane 8: (21.21, 60.20)
+-------
+نتیجه اجرای هشتم
+Best Objective Function Value (Total Time): 13453.18 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (203.20, 43.14)
+  Crane 2: (23.91, 61.74)
+  Crane 3: (64.29, 53.22)
+  Crane 4: (180.51, 54.26)
+  Crane 5: (230.82, 64.04)
+  Crane 6: (88.72, 20.73)
+  Crane 7: (108.98, 58.35)
+  Crane 8: (148.50, 70.11)
+-------
+نتیجه اجرای نهم
+Best Objective Function Value (Total Time): 13462.23 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (181.40, 53.09)
+  Crane 2: (89.26, 21.16)
+  Crane 3: (215.82, 57.10)
+  Crane 4: (109.05, 58.83)
+  Crane 5: (185.24, 18.01)
+  Crane 6: (63.95, 52.62)
+  Crane 7: (187.33, 33.42)
+  Crane 8: (23.98, 61.49)
+-------
+نتیجه اجرای دهم
+Best Objective Function Value (Total Time): 13454.22 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (185.07, 17.98)
+  Crane 2: (202.66, 43.20)
+  Crane 3: (231.88, 62.95)
+  Crane 4: (166.01, 55.45)
+  Crane 5: (23.50, 62.17)
+  Crane 6: (64.09, 52.47)
+  Crane 7: (88.91, 20.82)
+  Crane 8: (109.06, 60.30)
+-------
+نتیجه اجرای یازدهم
+Best Objective Function Value (Total Time): 13456.63 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (232.72, 61.89)
+  Crane 2: (23.96, 61.55)
+  Crane 3: (166.01, 55.27)
+  Crane 4: (185.49, 17.90)
+  Crane 5: (202.54, 43.17)
+  Crane 6: (64.14, 52.45)
+  Crane 7: (89.02, 20.99)
+  Crane 8: (109.00, 59.44)
+-------
+نتیجه اجرای دوازدهم
+Best Objective Function Value (Total Time): 13481.15 seconds
+Optimal Crane Positions (x, y):
+Crane 1: (215.76, 57.21)
+  Crane 2: (76.74, 53.91)
+  Crane 3: (23.79, 62.15)
+  Crane 4: (60.10, 66.22)
+  Crane 5: (189.48, 25.94)
+  Crane 6: (180.38, 54.80)
+  Crane 7: (108.55, 60.39)
+  Crane 8: (88.90, 20.78)
+-------
+نتیجه اجرای سیزدهم
+Best Objective Function Value (Total Time): 13467.18 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (216.03, 56.80)
+  Crane 2: (108.21, 58.77)
+  Crane 3: (185.46, 18.17)
+  Crane 4: (187.80, 33.50)
+  Crane 5: (63.64, 52.81)
+  Crane 6: (25.60, 61.67)
+  Crane 7: (88.84, 21.05)
+  Crane 8: (181.09, 53.35)
+-------
+نتیجه اجرای چهاردهم
+Best Objective Function Value (Total Time): 13458.20 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (25.09, 58.60)
+  Crane 2: (64.24, 52.47)
+  Crane 3: (185.51, 17.94)
+  Crane 4: (109.03, 59.86)
+  Crane 5: (231.41, 63.03)
+  Crane 6: (143.63, 68.05)
+  Crane 7: (202.69, 43.15)
+  Crane 8: (180.41, 54.67)
+-------
+نتیجه اجرای پانزدهم
+Best Objective Function Value (Total Time): 13466.49 seconds
+Optimal Crane Positions (x, y):
+  Crane 1: (232.42, 61.73)
+  Crane 2: (107.56, 59.01)
+  Crane 3: (179.21, 55.31)
+  Crane 4: (147.77, 70.92)
+  Crane 5: (64.29, 53.56)
+  Crane 6: (202.72, 43.84)
+  Crane 7: (25.08, 59.29)
+  Crane 8: (92.30, 13.98)
