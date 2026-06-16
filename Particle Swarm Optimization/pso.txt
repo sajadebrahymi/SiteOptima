@@ -1,0 +1,37 @@
+Starting Crane Layout Optimization using PARTICLE SWARM OPTIMIZATION (PSO)...
+Running Particle Swarm Optimization...
+  NumParticles = 50, MaxIter = 200, w = 0.9->0.4, c1 = 2.0, c2 = 2.0
+Iteration 1/200, Global Best Fitness: 14027.42
+Iteration 10/200, Global Best Fitness: 13951.19
+Iteration 20/200, Global Best Fitness: 13894.17
+Iteration 30/200, Global Best Fitness: 13820.52
+Iteration 40/200, Global Best Fitness: 13820.52
+Iteration 50/200, Global Best Fitness: 13815.60
+Iteration 60/200, Global Best Fitness: 13729.92
+Iteration 70/200, Global Best Fitness: 13715.01
+Iteration 80/200, Global Best Fitness: 13687.09
+Iteration 90/200, Global Best Fitness: 13687.09
+Iteration 100/200, Global Best Fitness: 13673.39
+Iteration 110/200, Global Best Fitness: 13651.80
+Iteration 120/200, Global Best Fitness: 13645.26
+Iteration 130/200, Global Best Fitness: 13619.45
+Iteration 140/200, Global Best Fitness: 13616.29
+Iteration 150/200, Global Best Fitness: 13610.04
+Iteration 160/200, Global Best Fitness: 13590.72
+Iteration 170/200, Global Best Fitness: 13589.77
+Iteration 180/200, Global Best Fitness: 13585.09
+Iteration 190/200, Global Best Fitness: 13584.29
+Iteration 200/200, Global Best Fitness: 13580.51
+Optimization Finished with Particle Swarm Optimization.
+Best Objective Function Value (Total Time): 13580.40 seconds
+Optimal Crane Positions (x, y) for 8 cranes:
+  Crane 1: (95.40, 49.40)
+  Crane 2: (62.45, 58.46)
+  Crane 3: (177.07, 12.85)
+  Crane 4: (89.62, 15.90)
+  Crane 5: (209.88, 47.35)
+  Crane 6: (0.00, 25.81)
+  Crane 7: (112.57, 0.00)
+  Crane 8: (23.36, 59.82)
+Program Ended.
+>> 
